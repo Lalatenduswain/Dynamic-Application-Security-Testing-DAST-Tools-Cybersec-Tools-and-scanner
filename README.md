@@ -148,15 +148,6 @@ Ensure you have:
 - Internet connectivity
 - Tools like `curl` or `wget` (if you automate link usage)
 
-### 🛠️ Quick Start
-
-```bash
-git clone https://github.com/Lalatenduswain/cybersec-tools-scanner.git
-cd cybersec-tools-scanner
-chmod +x cybersec-tools-scanner.sh
-./cybersec-tools-scanner.sh
-````
-
 ---
 
 ## 🧰 Tools Reference Table
